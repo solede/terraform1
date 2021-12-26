@@ -1,5 +1,6 @@
 # 概要
 windows環境でterraformを実行するサンプル
+実行するとAWSのVPC(test-vpc)を作成する
 
 # 環境変数設定
 ```
